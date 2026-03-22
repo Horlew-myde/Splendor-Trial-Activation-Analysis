@@ -7,7 +7,7 @@
 ## 🎯 The Problem I Solved
 Splendor didn’t know what “good” trial behaviour looks like. I found it. lol.....
 
-## 📊 Key Findings (in plain English)
+## 📊 Key Findings
 - Only **18%** of trial organisations reach full activation today  
 - Organisations that complete **all 5 goals** convert at **~4× higher rate** (68% vs 17%)  
 - Strongest drivers: Absence approvals, open shift requests, shift handovers, and team messages
